@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "storage-ea0de": {
+      "hosting": {
+        "storage": [
+          "storage-ea0de"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "storage-ea0de"
+  }
+}
